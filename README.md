@@ -11,7 +11,6 @@
 
 - 👨‍💻 You can also check out my portfolio at [https://impapon.github.io/papon-portfolio-website/](https://impapon.github.io/papon-portfolio-website/)
 
-- 📝 I regularly write articles on [https://papon4u.blogspot.com/](https://papon4u.blogspot.com/)
 
 - 💬 Ask me about **Android, Machine Learning**
 
